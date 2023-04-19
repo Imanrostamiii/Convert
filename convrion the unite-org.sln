@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convrion the unite-org", "convrion the unite-org\convrion the unite-org.csproj", "{3DB9562A-1295-4D92-8EFA-2EA89C2109C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conver mph to km", "conver mph to km\conver mph to km.csproj", "{DA69124A-D891-4A76-B57D-9DC490F635B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB9562A-1295-4D92-8EFA-2EA89C2109C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB9562A-1295-4D92-8EFA-2EA89C2109C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB9562A-1295-4D92-8EFA-2EA89C2109C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB9562A-1295-4D92-8EFA-2EA89C2109C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA69124A-D891-4A76-B57D-9DC490F635B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA69124A-D891-4A76-B57D-9DC490F635B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA69124A-D891-4A76-B57D-9DC490F635B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA69124A-D891-4A76-B57D-9DC490F635B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
